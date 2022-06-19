@@ -1,1 +1,1 @@
-# fresh-django-urls
+#django model
